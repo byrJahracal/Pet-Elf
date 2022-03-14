@@ -1,0 +1,60 @@
+<RCC>
+    <qresource prefix="/">
+        <file>说明.txt</file>
+    </qresource>
+    <qresource prefix="/User">
+        <file>touxiang/头像1.jpg</file>
+        <file>touxiang/头像2.jpg</file>
+        <file>touxiang/头像3.jpg</file>
+        <file>touxiang/头像4.jpg</file>
+        <file>touxiang/头像5.jpg</file>
+        <file>touxiang/头像6.jpg</file>
+        <file>touxiang/头像7.jpg</file>
+        <file>touxiang/头像8.jpg</file>
+    </qresource>
+    <qresource prefix="/Elf">
+        <file>digimon/冰精灵.jpg</file>
+        <file>digimon/黑精灵.jpg</file>
+        <file>digimon/火精灵.jpg</file>
+        <file>digimon/雷精灵.jpg</file>
+        <file>digimon/叶精灵.jpg</file>
+        <file>digimon/暴龙兽.jpg</file>
+        <file>digimon/独角仙兽.jpg</file>
+        <file>digimon/恶魔兽.jpg</file>
+        <file>digimon/钢铁海龙兽.jpg</file>
+        <file>digimon/钢铁加鲁鲁兽.jpg</file>
+        <file>digimon/加鲁鲁兽.jpg</file>
+        <file>digimon/迦楼罗兽.jpg</file>
+        <file>digimon/剑狮兽.jpg</file>
+        <file>digimon/狼人加鲁鲁兽.jpg</file>
+        <file>digimon/木偶兽.jpg</file>
+        <file>digimon/女恶魔兽.jpg</file>
+        <file>digimon/欧米伽兽.jpg</file>
+        <file>digimon/青龙兽.jpg</file>
+        <file>digimon/天女兽.jpg</file>
+        <file>digimon/仙人掌兽.jpg</file>
+        <file>digimon/玄武兽.jpg</file>
+        <file>digimon/怨毒吸血魔兽.jpg</file>
+        <file>digimon/战斗暴龙兽.jpg</file>
+        <file>digimon/祖顿兽.jpg</file>
+        <file>digimon/丧尸暴龙兽.jpg</file>
+    </qresource>
+    <qresource prefix="/Background">
+        <file>beijing/背景1.jpg</file>
+        <file>beijing/背景2.jpg</file>
+        <file>beijing/背景3.jpg</file>
+        <file>beijing/背景4.jpg</file>
+        <file>beijing/战斗1.jpg</file>
+        <file>beijing/战斗2.jpg</file>
+        <file>beijing/暗.jpg</file>
+        <file>beijing/冰.jpg</file>
+        <file>beijing/火.jpg</file>
+        <file>beijing/雷.jpg</file>
+        <file>beijing/叶.jpg</file>
+        <file>beijing2/暗.jpg</file>
+        <file>beijing2/冰.jpg</file>
+        <file>beijing2/火.jpg</file>
+        <file>beijing2/雷.jpg</file>
+        <file>beijing2/叶.jpg</file>
+    </qresource>
+</RCC>

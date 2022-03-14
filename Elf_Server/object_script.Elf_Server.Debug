@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\global.o
+./debug\Mythread.o
+./debug\ElfSkill.o
+./debug\ElfPet.o
+./debug\Deal.o
+./debug\qrc_touxiang.o
+./debug\moc_mainwindow.o
+./debug\moc_Mythread.o
+);

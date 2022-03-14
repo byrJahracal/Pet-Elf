@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/User">
+        <file>touxiang/头像1.jpg</file>
+        <file>touxiang/头像2.jpg</file>
+        <file>touxiang/头像3.jpg</file>
+        <file>touxiang/头像4.jpg</file>
+        <file>touxiang/头像5.jpg</file>
+        <file>touxiang/头像6.jpg</file>
+        <file>touxiang/头像7.jpg</file>
+        <file>touxiang/头像8.jpg</file>
+    </qresource>
+</RCC>
